@@ -1,4 +1,3 @@
-
 This specification establishes a convention for creating a style of
 reusable JavaScript modules and systems that will load and link those
 modules.
@@ -125,7 +124,7 @@ Module Identifiers
 1.  A module identifier is a string of "terms" delimited by forward
     slashes.
 1.  A term is either:
-    1.  any combination of lower-case letters, numbers, and hyphens,
+    1.  any combination of lower-case letters,
     1.  ``.``, or
     1.  ``..``
 1.  Module identifiers should not have file-name extensions like
